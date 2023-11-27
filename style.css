@@ -39,6 +39,16 @@
     font-size: 28px;
 }
 
+.card .forgot-password {
+    text-align: right;
+    margin-top: 5px;
+}
+
+.card .forgot-password a {
+    color: #0066c0;
+    text-decoration: none;
+}
+
 .card label {
     font-size: 13px;
     padding-left: 2px;
